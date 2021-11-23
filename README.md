@@ -1,11 +1,10 @@
 # Oi, eu sou o Goku!
-### Mentira, sou só o Jean mesmo...Seja bem-vindo
-
-<hr>
+### Mentira, sou só o Jean mesmo...Seja bem-vindo!
+<div align="center">
   <a href="https://github.com/jeanpsilva10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanpsilva10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpsilva10&layout=compact&langs_count=7&theme=github_dark"/>
-<hr>
+ </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="HTML" alt="Jean-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" title="CSS" alt="Jean-CSS" src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white">
