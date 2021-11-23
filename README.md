@@ -1,3 +1,6 @@
+# Oi, eu sou o Goku! <a href="https://github.com/jeanpsilva10"><img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" align="left" height="65" width="65" ></a>
+## Mentira, sou só o Jean mesmo...seja bem-vindo!
+
 <div align="center">
   <a href="https://github.com/jeanpsilva10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanpsilva10&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=000000&include_all_commits=true&count_private=true"/>
@@ -19,3 +22,4 @@
   <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
  
+![4728520](https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png)
