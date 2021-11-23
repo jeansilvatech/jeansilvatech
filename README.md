@@ -2,7 +2,7 @@
 # Oi, eu sou o Goku! <a href="https://github.com/jeanpsilva10"><img src="https://user-images.githubusercontent.com/23384348/143082526-6f405a2c-759c-42ba-88ac-47d2dc7ca58b.png" align="left" height="50" width="50"></a>
 
 ### Mentira, sou só o Jean mesmo...Seja bem-vindo!
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/jeanpsilva10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanpsilva10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanpsilva10&layout=compact&langs_count=7&theme=github_dark"/>
