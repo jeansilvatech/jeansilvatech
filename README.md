@@ -1,4 +1,6 @@
-# Oi, eu sou o Goku!
+  
+# Oi, eu sou o Goku! <a href="https://github.com/jeanpsilva10"><img src="https://user-images.githubusercontent.com/23384348/143082526-6f405a2c-759c-42ba-88ac-47d2dc7ca58b.png" align="left" height="50" width="50"></a>
+
 ### Mentira, sou só o Jean mesmo...Seja bem-vindo!
 <div align="center">
   <a href="https://github.com/jeanpsilva10">
@@ -16,6 +18,7 @@
 </div>
 <hr>
 <div align="center">
+  <p> Mais Contatos</p>
   <a href="https://instagram.com/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeanpsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
