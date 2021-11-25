@@ -8,6 +8,7 @@
   </a>
 </div>
 <hr>
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="HTML" alt="Jean-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" title="CSS" alt="Jean-CSS" src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white">
@@ -21,4 +22,8 @@
   <a href = "mailto:jeanpsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
- 
+ <hr>
+ <h2 align="center"> Total de visitas </h2><br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/jeanpsilva10/count.svg" />
+ </p>
