@@ -1,5 +1,5 @@
-# Oi, eu sou o Goku! <a href="https://github.com/jeanpsilva10"><img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" align="left" height="75" width="75" ></a>
-## Mentira, sou só o Jean mesmo...seja bem-vindo!
+<img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" align="left" height="75" width="75" ><h1> Oi, eu sou o Goku!</h1>
+<h2> Mentira, sou só o Jean mesmo...seja bem-vindo! </h2>
 
 <div align="center">
   <a href="https://github.com/jeanpsilva10">
