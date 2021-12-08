@@ -11,9 +11,10 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="HTML" alt="Jean-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" title="CSS" alt="Jean-CSS" src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" title="JavaScript" alt="Jean-Js" src="https://img.shields.io/badge/JavaScript-f0e05a?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" title="Bootstrap" alt="Jean-Bootstrap" src="https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" title="CSS" alt="Jean-CSS" src="https://img.shields.io/badge/CSS3-0070b8?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" title="Bootstrap" alt="Jean-Bootstrap" src="https://img.shields.io/badge/Bootstrap-8512f7?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" title="JavaScript" alt="Jean-Js" src="https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" title="Java" alt="Jean-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" title="Java" alt="Jean-Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 <hr>
