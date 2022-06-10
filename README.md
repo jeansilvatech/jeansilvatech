@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/jeansilvatech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=000000&layout=compact&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=000000&border_color=00FFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=000000&border_color=00FFFF&layout=compact&langs_count=10"/>
   </a>
 </div>
 <hr>
