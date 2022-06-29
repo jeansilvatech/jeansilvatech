@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png"  height="90" width="90"/>
-<h1> Oi, eu sou o Goku!</h1>
-<h2> Mentira, sou só o Jean mesmo... </h2>
+  <img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" height="90" width="90"/>
+    <h1> Oi, eu sou o Goku!</h1>
+    <h2> Mentira, sou só o Jean mesmo... </h2>
 </div>
 
 <div align="center">
@@ -20,11 +20,12 @@
   <img align="center" title="React" alt="Jean-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" title="Java" alt="Jean-Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
 <div align="center">
-<h2 align="center"> Contatos </h2>
+  <h2 align="center"> Contatos </h2>
   <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" target="_blank"></a> 
   <a href="https://instagram.com/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank"></a>
-  <a href = "mailto:jeanpsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank"></a> 
+  <a href = "mailto:jeanpsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank">     </a> 
 </div>
  <h2 align="center"> Total de visitas </h2><br>
  <p align="center"> 
