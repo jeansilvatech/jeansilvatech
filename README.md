@@ -1,5 +1,8 @@
-<img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" align="left" height="75" width="75" ><h1> Oi, eu sou o Goku!</h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png"  height="90" width="90"/>
+<h1> Oi, eu sou o Goku!</h1>
 <h2> Mentira, sou só o Jean mesmo... </h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/jeansilvatech">
@@ -7,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=DEG,363636,1C1C1C,000000&border_color=00FFFF&layout=compact&langs_count=8"/>
   </a>
 </div>
-<hr>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="HTML" alt="Jean-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,13 +20,12 @@
   <img align="center" title="React" alt="Jean-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" title="Java" alt="Jean-Java" src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white" />
 </div>
-<hr>
 <div align="center">
+<h2 align="center"> Contatos </h2>
   <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" target="_blank"></a> 
   <a href="https://instagram.com/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank"></a>
   <a href = "mailto:jeanpsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank"></a> 
 </div>
- <hr>
  <h2 align="center"> Total de visitas </h2><br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jeanpsilva10/count.svg" />
