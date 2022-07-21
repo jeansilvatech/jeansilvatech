@@ -27,7 +27,8 @@
   <a href="https://instagram.com/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank"></a>
   <a href = "mailto:jeanpsilva10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" target="_blank">     </a> 
 </div>
- <h2 align="center"> Total de visitas </h2><br>
+ <h2 align="center"> Total de visitas </h2>
+ <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/jeanpsilva10/count.svg" />
  </p>
