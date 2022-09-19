@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/jeansilvatech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=DEG,000000,1C1C1C,363636&border_color=00FFFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=DEG,363636,1C1C1C,000000&border_color=00FFFF&layout=compact&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=DEG,363636,1C1C1C,000000&border_color=00FFFF&layout=compact&langs_count=7"/>
   </a>
 </div>
 
