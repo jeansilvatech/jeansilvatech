@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" height="90" width="90"/>
-    <h1> Oi, eu sou o Goku!</h1>
-    <h2> Mentira, sou só o Jean mesmo... </h2>
+    <h1> Oi, eu sou o...Jean!</h1>
+    <h2> Front End Developer Jr </h2>
 </div>
 
 <div align="center">
