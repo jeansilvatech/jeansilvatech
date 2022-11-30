@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/23384348/143138842-b1b85f14-7374-40f9-8962-3f8ec0914d40.png" height="90" width="90"/>
-    <h1> Oi, eu sou o...Jean!</h1>
-    <h2> Front End Developer Jr </h2>
+  <img src="https://imgkub.com/images/2022/12/01/banner.png" width="100%" />
 </div>
-
+</br>
 <div align="center">
   <a href="https://github.com/jeansilvatech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=DEG,000000,1C1C1C,363636&border_color=00FFFF&include_all_commits=true&count_private=true"/>
