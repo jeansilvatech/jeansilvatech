@@ -4,10 +4,11 @@
 </br>
 <div align="center">
   <a href="https://github.com/jeansilvatech">
-  <img height="180em" src="https://github-readme-stats-test-jeansilvatech.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=1C1C1C&border_color=00FFFF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-test-jeansilvatech.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=1C1C1C&border_color=00FFFF&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=1C1C1C&border_color=00FFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=00FFFF&bg_color=1C1C1C&border_color=00FFFF&layout=compact&langs_count=7"/>
   </a>
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="HTML" alt="Jean-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
