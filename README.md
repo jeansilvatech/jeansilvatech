@@ -25,6 +25,9 @@
   <img align="center" title="TailwindCSS" alt="Jean-Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" title="Angular" alt="Jean-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" title="Java" alt="Jean-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
 
 <div align="center">
