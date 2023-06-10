@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/jeansilvatech">
     
-  <img height="180em" src="https://github-readme-stats-test-topaz.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=87CEEB&icon_color=FFFFFF&title_color=1E90FF&bg_color=1C1C1C&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeansilvatech&show_icons=true&text_color=87CEEB&icon_color=FFFFFF&title_color=1E90FF&bg_color=1C1C1C&include_all_commits=true&count_private=true"/>
     
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansilvatech&text_color=87CEEB&icon_color=FFFFFF&title_color=1E90FF&bg_color=1C1C1C&layout=compact&langs_count=7"/>
   </a>
