@@ -1,5 +1,8 @@
 # Olá, eu sou o Jean! 👋
 
+## 🚀 Sobre mim
+Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando programação com foco no desenvolvimento web.
+
 <div align="center">
  
   <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&include_all_commits=true&count_private=true" />
@@ -7,9 +10,6 @@
  <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&layout=compact&langs_count=8" />
  
 </div>
-
-## 🚀 Sobre mim
-Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando programação com foco no desenvolvimento web.
 
 ## 🛠 Habilidades
 
@@ -20,7 +20,7 @@ Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30px"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>
