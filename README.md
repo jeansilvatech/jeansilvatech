@@ -21,6 +21,7 @@ Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/>
 </div>
 
+<br>
 <div align="center">
  
   <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&include_all_commits=true&count_private=true" />
