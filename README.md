@@ -1,15 +1,17 @@
-<div align="center">
-  <img src="./img/banner.png" width="100%" />
-</div>
-</br>
-<div align="center">
- 
+# Olá, eu sou o Jean! 👋
+
+## 🚀 Sobre mim
+Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando e buscando evoluir em desenvolvimento web.
+
+<div align="center" style="display: inline_block">
+
   <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&include_all_commits=true&count_private=true" />
     
  <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&layout=compact&langs_count=8" />
  
 </div>
 
+## 🛠 Habilidades
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>
@@ -27,11 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/>
 </div>
 
-<br>
-<br>
+
+## 🔗 Links
+
 <div align="center">
-  <h2 align="center">Contacts</h2>
-  <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="./img/linkedin-logo.svg" target="_blank"></a> 
-  <a href="https://instagram.com/jeansilvatech" target="_blank"><img src="./img/instagram-logo.svg"target="_blank"></a>
-  <a href="https://www.behance.net/jeansilvatech" target="_blank"><img src="./img/behance-logo.svg"target="_blank"></a>
+ <a href="https://jeansilvatech.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/jeansilvatech" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+  <a href="https://www.behance.net/jeansilvatech" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"target="_blank"></a>
 </div>
