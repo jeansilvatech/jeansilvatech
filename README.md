@@ -3,14 +3,6 @@
 ## 🚀 Sobre mim
 Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas e estudando programação com foco no desenvolvimento web.
 
-<div align="center">
- 
-  <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&include_all_commits=true&count_private=true" />
-    
- <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&layout=compact&langs_count=8" />
- 
-</div>
-
 ## 🛠 Habilidades
 
 <div align="center" style="display: inline_block"><br>
@@ -28,6 +20,15 @@ Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"/>
 </div>
+
+<div align="center">
+ 
+  <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/?username=jeansilvatech&show_icons=true&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&include_all_commits=true&count_private=true" />
+    
+ <img height="180em" src="https://github-readme-stats-jeansilvatech.vercel.app/api/top-langs/?username=jeansilvatech&text_color=FFFFFF&icon_color=FFFFFF&title_color=1E90FF&bg_color=0a0a0a&layout=compact&langs_count=8" />
+ 
+</div>
+
 
 ## 🔗 Links
 
