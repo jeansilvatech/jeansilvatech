@@ -35,6 +35,5 @@ Olá, sou um apaixonado por tecnologia, atualmente estou cursando Análise e Des
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeanpesil" target="_blank"><img src="./img/linkedin-logo.svg" target="_blank"></a> 
-  <a href="https://instagram.com/jeansilvatech" target="_blank"><img src="./img/instagram-logo.svg"target="_blank"></a>
   <a href="https://www.behance.net/jeansilvatech" target="_blank"><img src="./img/behance-logo.svg"target="_blank"></a>
 </div>
